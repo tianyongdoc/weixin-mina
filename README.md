@@ -1,5 +1,5 @@
 # weixin-mina
 微信小程序
 
-[图片]
+![](./G6UG_RJOD(PL5$}F{ZMMH{D.png)
 
